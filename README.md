@@ -128,14 +128,4 @@ I strive to build **efficient, scalable, and visually appealing web solutions** 
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/sabbir00921/sabbir00921/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="80%"/>
-</p>
-
-*Watch the snake eat your commits!*
-
----
-
 ⭐️ From [Sabbir Hossain](https://github.com/sabbir00921)
